@@ -11,12 +11,27 @@ namespace Crowdfundraising
     {
         #region properties
         
-        public int DonorID { get; set; }
+        public Donor DonorID { get;  }
         public DateTime Date { get; set; }
         public Decimal Amount { get; set; }
-        public int ProjectID { get; set; }
-        
+        public Project ProjectID { get; }
+
         #endregion
+
+        #region Constractor
+        public Donation(Donor A, Project B)
+        {
+            DonorID = A;
+            ProjectID = B;
+
+        }
+        #endregion
+
+
+
+
+
+
     }
 
 }

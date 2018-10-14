@@ -1,0 +1,7 @@
+C:\GitHub\Crowdfundraising\Crowdfundraising\obj\Debug\Crowdfundraising.csprojAssemblyReference.cache
+C:\GitHub\Crowdfundraising\Crowdfundraising\obj\Debug\Crowdfundraising.csproj.CoreCompileInputs.cache
+C:\GitHub\Crowdfundraising\Crowdfundraising\bin\Debug\Crowdfundraising.exe.config
+C:\GitHub\Crowdfundraising\Crowdfundraising\bin\Debug\Crowdfundraising.exe
+C:\GitHub\Crowdfundraising\Crowdfundraising\bin\Debug\Crowdfundraising.pdb
+C:\GitHub\Crowdfundraising\Crowdfundraising\obj\Debug\Crowdfundraising.exe
+C:\GitHub\Crowdfundraising\Crowdfundraising\obj\Debug\Crowdfundraising.pdb
